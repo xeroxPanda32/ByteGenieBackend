@@ -29,6 +29,6 @@ jobs:
           docker login -u $DOCKER_USERNAME -p $DOCKER_PASSWORD
           docker buildx create --use
           docker tag $DOCKER_USERNAME/byte-genie $DOCKER_USERNAME/byte-genie
-          docker push .
+          docker push $DOCKER_USERNAME/byte-genie
 
 
