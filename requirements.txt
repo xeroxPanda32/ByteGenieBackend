@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic[email]
+pymongo
+motor
+python-decouple
+python-multipart
+boto3
+httpx
+pathlib
