@@ -28,7 +28,6 @@ add **.env** file in root directory
 
 > **AWS_BUCKET_NAME**=aws_bucket_name
 
-<br>
 public url of google colab where ML code is running
 
 > **ML_URL**=https://646f-34-90-50-191.ngrok-free.app
